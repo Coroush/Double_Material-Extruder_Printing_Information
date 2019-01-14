@@ -1,4 +1,4 @@
-# Multi-Material Printing Information
+# Double_Material-Extruder_Printing_Information
 
 The following code constructs points with material proportion information from a colored mesh to be used for robotic multi-material 3D-printing.
 
@@ -33,4 +33,3 @@ The following code constructs points with material proportion information from a
 ## Authors
 
 ## Acknowledgments
-# Double_Material-Extruder_Printing_Information
